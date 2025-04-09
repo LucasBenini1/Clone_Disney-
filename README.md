@@ -21,22 +21,6 @@ Este é um projeto de **clone da interface do Disney Plus**, desenvolvido com fo
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-📁 dist/              # Arquivos finais prontos para produção
-📁 src/               # Código fonte
- ┣ 📁 assets/
- ┃ ┣ 📁 images/
- ┃ ┣ 📁 js/
- ┃ ┗ 📁 scss/
- ┣ 📄 index.html
-📄 gulpfile.js        # Configuração do Gulp
-📄 package.json       # Dependências do projeto
-```
-
----
-
 ## 🛠️ Como rodar o projeto
 
 1. Clone o repositório:
@@ -59,12 +43,6 @@ gulp
 ```
 
 > Certifique-se de que o Gulp está instalado globalmente (`npm install -g gulp-cli`)
-
----
-
-## 📸 Demonstração
-
-![Disney Plus Clone](./src/assets/images/preview.png)
 
 ---
 
